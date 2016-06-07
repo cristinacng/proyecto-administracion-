@@ -1,0 +1,21 @@
+
+ El proceso de copia de seguridad ha finalizado. A continuación se muestra un resumen de las operaciones realizadas. Este informe quedará guardado en el fichero ´_INFORME.TXT´ de acuerdo con la Ley Orgánica 15/1999, de 13 de Diciembre, de Protección de Datos de Carácter Personal
+
+Fecha y hora de la Copia 14-04-16 12:46:19
+Producto... : Contaplus educativa aula
+
+Información de versión
+....ContaPlus Educativa Aula
+....15-10-15
+....2013
+....Release 31
+
+Autor...... : Usuario Supervisor
+Nº Serie... : EE7E04/BE50ED-42EDEC-D84
+Destino.... : D:\
+Comentario. :
+
+Tipo de copia..... : Parcial
+Empresas/ejercicios a copiar. :
+---------------------------------------
+   0022 - AQUASPORT SERVICE
